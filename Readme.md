@@ -42,9 +42,12 @@ Here are some ideas to get you started:
 
 [![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R%20-F50514?style=flat-square&logo=oneplus&logoColor=ffffff)](#)
 [![Lenovo Xiaoxin Pro14 IHU](https://img.shields.io/badge/Lenovo%20XiaoXin%20Pro14%20IHU-e12726?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
+[![ALLDOCUBE](https://img.shields.io/badge/Alldocube%20iPlay%2050%20Pro-00aeef?style=flat-square&logo=android&logoColor=ffffff)](#)
 
 
 ### 系统环境 / System Environment
 
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](#)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows10&logoColor=ffffff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](#)
