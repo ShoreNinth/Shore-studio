@@ -49,5 +49,4 @@ Here are some ideas to get you started:
 
 [![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](#)
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows10&logoColor=ffffff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](#)
