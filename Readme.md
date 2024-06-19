@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 -->
 
 ### 电子邮箱 / E-Mail
-[![](https://img.shields.io/badge/1349682228-%40qq.com-0052d9?style=flat-square)](mailto:1349682228@qq.com)
 [![](https://img.shields.io/badge/Chorungguo-%40163.com-db0816?style=flat-square)](mailto:Chorungguo@163.com) 
 [![](https://img.shields.io/badge/Chorungguo-%40126.com-1e7e3e?style=flat-square)](mailto:Chorungguo@126.com) 
 [![](https://img.shields.io/badge/Apolloguo9-%40gmail.com-4285f4?style=flat-square)](mailto:Apolloguo9@gmail.com)
