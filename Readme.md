@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ### 现役设备 / Devices in use
 
 [![OnePlus 9R](https://img.shields.io/badge/OnePlus%209R%20-F50514?style=flat-square&logo=oneplus&logoColor=ffffff)](#)
+[![Huawei Mate 50](https://img.shields.io/badge/Huawei%20Mate%2050%20-F50514?style=flat-square&logo=huawei&logoColor=ffffff)](#)
 [![Lenovo Xiaoxin Pro14 IHU 2021](https://img.shields.io/badge/Lenovo%20XiaoXin%20Pro14%20IHU%202021-e12726?style=flat-square&logo=lenovo&logoColor=ffffff)](#)
 [![ALLDOCUBE](https://img.shields.io/badge/Alldocube%20iPlay%2050%20Pro-00aeef?style=flat-square&logo=android&logoColor=ffffff)](#)
 
@@ -49,5 +50,6 @@ Here are some ideas to get you started:
 ### 系统环境 / System Environment
 
 [![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](#)
+[![HMOS](https://img.shields.io/badge/HarmonyOS%204-3ddc84?style=flat-square&logo=harmonyos&logoColor=ffffff)](#)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)](#)
